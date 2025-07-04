@@ -1,4 +1,4 @@
-##Screenshots for some Test Cases:
+## Screenshots for some Test Cases:
 - Successful order
 - Insufficient balance
 - Out of stock
